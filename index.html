@@ -55,6 +55,16 @@
       </div>
     </header>
 
+    <nav class="breadcrumbs" aria-label="パンくずリスト">
+      <div class="container">
+        <ol>
+          <li><a href="#top">ホーム</a></li>
+          <li><a href="#gallery">ギャラリー</a></li>
+          <li aria-current="page">アーカイブ</li>
+        </ol>
+      </div>
+    </nav>
+
     <main id="top">
       <section class="hero">
         <div class="container hero__content">
@@ -107,7 +117,7 @@
         </div>
       </section>
 
-      <section id="vision" class="section island-pattern">
+      <article id="vision" class="section island-pattern">
         <div class="container grid-2">
           <div>
             <p class="eyebrow">Why Park Homes</p>
@@ -136,9 +146,9 @@
             </article>
           </div>
         </div>
-      </section>
+      </article>
 
-      <section id="models" class="section muted">
+      <article id="models" class="section muted">
         <div class="container">
           <div class="section-heading">
             <p class="eyebrow">Flagship Models</p>
@@ -178,7 +188,7 @@
             </article>
           </div>
         </div>
-      </section>
+      </article>
 
       <section id="gallery" class="section gallery">
         <div class="container">
@@ -204,7 +214,7 @@
         </div>
       </section>
 
-      <section id="estimate" class="section estimate">
+      <article id="estimate" class="section estimate">
         <div class="container grid-2">
           <div>
             <p class="eyebrow">Estimator β</p>
@@ -261,9 +271,9 @@
             </div>
           </form>
         </div>
-      </section>
+      </article>
 
-      <section id="chatbot" class="section chatbot">
+      <article id="chatbot" class="section chatbot">
         <div class="container grid-2">
           <div>
             <p class="eyebrow">Customer Experience</p>
@@ -298,9 +308,9 @@
             <p class="chat-note">※将来的にチャットボット API を接続予定。現在はデモ表示のみです。</p>
           </div>
         </div>
-      </section>
+      </article>
 
-      <section id="legacy" class="section legacy">
+      <article id="legacy" class="section legacy">
         <div class="container">
           <div class="section-heading">
             <p class="eyebrow">Content Archive</p>
@@ -314,7 +324,7 @@
             <div id="legacy-content" class="legacy-content" aria-live="polite"></div>
           </div>
         </div>
-      </section>
+      </article>
     </main>
 
     <footer class="site-footer">
@@ -333,5 +343,51 @@
     <button class="chat-fab" aria-label="チャットボットセクションへ" id="chat-fab">💬</button>
 
     <script src="scripts.js" defer></script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "LocalBusiness",
+          "name": "Park Homes Okinawa",
+          "url": "https://www.parkhomes-okinawa.com/",
+          "image": "https://image.jimcdn.com/cdn-cgi/image/width=470%2Cheight=1024%2Cfit=contain%2Cformat=jpg%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i8c6ece35ed85cdce/version/1770817266/image.jpg",
+          "telephone": "+81-98-856-6666",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Okinawa",
+            "addressCountry": "JP"
+          },
+          "areaServed": ["Okinawa", "Miyako", "Ishigaki", "Amami"],
+          "sameAs": [
+            "http://www.trailer-okinawa.jp/",
+            "http://trailer-house.or.jp/"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "ホーム",
+              "item": "https://www.parkhomes-okinawa.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "ギャラリー",
+              "item": "https://www.parkhomes-okinawa.com/#gallery"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "アーカイブ"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
   </body>
 </html>
