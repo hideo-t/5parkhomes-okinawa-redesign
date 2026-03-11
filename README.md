@@ -10,6 +10,8 @@ Park Homes Okinawa (サイトA) のフルリニューアル版ランディング
   - 自動見積フォーム（価格計算＋ `window.print()` での印刷動線）
 - **パフォーマンス配慮**: 遅延読み込み、軽量なカスタム Markdown パーサ、最小限の JS で Core Web Vitals を意識。
 
+- **SEO 対応**: `SEO_REPORT.md` に監査結果をまとめ、タイトル/ディスクリプション/OG/alt/見出しを最適化。
+
 ## セットアップ / プレビュー
 ```bash
 cd site-a-redesign

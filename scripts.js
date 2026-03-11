@@ -116,7 +116,8 @@ function markdownToHtml(md) {
       html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
       html = html.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>');
       html = html.replace(/!\[(.*?)\]\((.*?)\)/g, (_match, alt, src) => {
-        const safeAlt = alt || 'Park Homes Image';
+        const defaultAlt = 'Park Homes Okinawa トレーラーハウス写真';
+        const safeAlt = alt && !/^Image\s*/i.test(alt) ? alt : defaultAlt;
         return `<figure><img src="${src}" alt="${safeAlt}" loading="lazy" /><figcaption>${safeAlt}</figcaption></figure>`;
       });
       if (html.includes('<figure')) {
