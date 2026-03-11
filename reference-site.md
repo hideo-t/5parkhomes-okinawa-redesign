@@ -9,7 +9,7 @@ Markdown Content:
 
 **私たちは沖縄の風土を熟知した設計と高品質な製造体制で、長く安心して使えるトレーラーハウスをご提供しています。他社をご検討された後でも構いません。ぜひ一度パークホームズオキナワをご覧いただき、その違いをご実感ください。**
 
-![Image 1](https://image.jimcdn.com/cdn-cgi/image/width=470%2Cheight=1024%2Cfit=contain%2Cformat=jpg%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i8c6ece35ed85cdce/version/1770817266/image.jpg)
+![Image 1](assets/images/001_width-470-2Cheight-1024-2Cfit-contain-2Cformat-jpg-2C_1770817266.jpg)
 
 **オフグリッドトレーラーハウスの特徴は電力や水道といったインフラに頼らず、自給自足の生活ができること｡**
 
@@ -19,17 +19,17 @@ Markdown Content:
 
 **特に離島では台風時にかなりの確率で停電になり、地域によっては3日以上停電することもあるため、オフグリッドトレーラーハウスで災害時も生活を守ります。**
 
-![Image 2](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=png/path/s13e7092c3e890cc1/image/i8b6d4d5f2f979409/version/1754993720/image.png)
+![Image 2](assets/images/002_transf_1754993720.png)
 
-![Image 3](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=png/path/s13e7092c3e890cc1/image/i70e9103d8d612a3f/version/1754993720/image.png)
+![Image 3](assets/images/003_transf_1754993720.png)
 
-![Image 4](https://image.jimcdn.com/app/cms/image/transf/dimension=400x1920:format=jpg:rotate=90/path/s13e7092c3e890cc1/image/id5a41da71c4cd62b/version/1764164418/image.jpg)
+![Image 4](assets/images/004_transf_1764164418.jpg)
 
-![Image 5](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/i32a44def6aa7693f/version/1764164418/image.jpg)
+![Image 5](assets/images/005_transf_1764164418.jpg)
 
-![Image 6](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/i9c2904e60a18f1d3/version/1764164574/image.jpg)
+![Image 6](assets/images/006_transf_1764164574.jpg)
 
-![Image 7](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/i7e5e43672a532774/version/1764164574/image.jpg)
+![Image 7](assets/images/007_transf_1764164574.jpg)
 
 **近年各地でトレーラーハウスでコインランドリー事業が増えつつあります。**
 
@@ -39,17 +39,17 @@ Markdown Content:
 
 **またトレーラーハウスで設置場所を選ばないことから、需要が増えてきております。 ※設置場所要確認**
 
-![Image 8](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/ib9a294fefc6fb77e/version/1767189839/image.jpg)
+![Image 8](assets/images/008_transf_1767189839.jpg)
 
-![Image 9](https://image.jimcdn.com/cdn-cgi/image/width=1920%2Cheight=400%2Cfit=contain%2Cformat=jpg%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i38824e6e65571d07/version/1768816364/image.jpg)
+![Image 9](assets/images/009_width-1920-2Cheight-400-2Cfit-contain-2Cformat-jpg-2C_1768816364.jpg)
 
-![Image 10](https://image.jimcdn.com/cdn-cgi/image/width=1920%2Cheight=400%2Cfit=contain%2Cformat=png%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/ibe5f71650b733187/version/1768816364/image.png)
+![Image 10](assets/images/010_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816364.png)
 
-![Image 11](https://image.jimcdn.com/cdn-cgi/image/width=1920%2Cheight=400%2Cfit=contain%2Cformat=jpg%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i2f12743d63df37ae/version/1768816364/image.jpg)
+![Image 11](assets/images/011_width-1920-2Cheight-400-2Cfit-contain-2Cformat-jpg-2C_1768816364.jpg)
 
-![Image 12](https://image.jimcdn.com/cdn-cgi/image/width=1920%2Cheight=400%2Cfit=contain%2Cformat=png%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i5bd10b3481866e25/version/1768816948/image.png)
+![Image 12](assets/images/012_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816948.png)
 
-![Image 13](https://image.jimcdn.com/cdn-cgi/image/width=1920%2Cheight=400%2Cfit=contain%2Cformat=png%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/iac19f44e1c79c844/version/1768816948/image.png)
+![Image 13](assets/images/013_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816948.png)
 
 **建設現場の事務所や休憩所に重宝いたします。ライフラインが無い現場では発電機から電気を供給します。**
 
@@ -129,15 +129,15 @@ Markdown Content:
 
 県外製造または海外製トレーラーハウスは超大型台風やシロアリで必ず破損し、後に多額な補修メンテナンス費用が掛かりますので、【沖縄製造】のハウスをお勧めいたします。
 
-![Image 14](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i39a25afadf7a49eb/version/1746498859/image.jpg)
+![Image 14](assets/images/014_transf_1746498859.jpg)
 
-![Image 15](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i948752122926d18e/version/1683797684/image.jpg)
+![Image 15](assets/images/015_transf_1683797684.jpg)
 
-![Image 16](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/idd0a380a15b7785f/version/1756709290/image.jpg)
+![Image 16](assets/images/016_transf_1756709290.jpg)
 
-![Image 17](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i5ea3e4632bddbac3/version/1729294686/image.jpg)
+![Image 17](assets/images/017_transf_1729294686.jpg)
 
-![Image 18](https://image.jimcdn.com/app/cms/image/transf/dimension=513x1024:format=png/path/s13e7092c3e890cc1/image/i1cc3d5c21a889371/version/1766021875/image.png)
+![Image 18](assets/images/018_transf_1766021875.png)
 
 **コンテナベースのトレーラーハウス**
 
@@ -153,11 +153,11 @@ Markdown Content:
 
 **家具家電付き→ 1800万円程（2025/04現在）**
 
-![Image 19](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/ia0c703c417167da1/version/1672204508/image.jpg)
+![Image 19](assets/images/019_transf_1672204508.jpg)
 
-![Image 20](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i63aeb9c82e3786cd/version/1756707462/image.jpg)
+![Image 20](assets/images/020_transf_1756707462.jpg)
 
-![Image 21](https://image.jimcdn.com/app/cms/image/transf/dimension=470x1024:format=jpg/path/s13e7092c3e890cc1/image/i5e72f101126dc4b7/version/1754994566/image.jpg)
+![Image 21](assets/images/021_transf_1754994566.jpg)
 
 **パークムービング6Mはコンテナベースのトレーラーハウスです。**
 
@@ -175,19 +175,19 @@ Markdown Content:
 
 **※写真は完成事例**
 
-![Image 22](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i3689bf66f2aba900/version/1672204590/image.jpg)
+![Image 22](assets/images/022_transf_1672204590.jpg)
 
 **半完成品なのでDIY感覚でオリジナルトレーラーハウスが製作できます！**
 
 **本体は『半完成』にての販売になりますので、少し経験のある方でしたら、安価でお好みのトレーラーハウスが製作できます。※写真は完成事例**
 
-![Image 23](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i69351d8c722f9919/version/1705981635/image.jpg)
+![Image 23](assets/images/023_transf_1705981635.jpg)
 
-![Image 24](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i348cff57e27faf67/version/1757629800/image.jpg)
+![Image 24](assets/images/024_transf_1757629800.jpg)
 
-![Image 25](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/ic27b6379447958da/version/1757629822/image.jpg)
+![Image 25](assets/images/025_transf_1757629822.jpg)
 
-![Image 26](https://image.jimcdn.com/app/cms/image/transf/dimension=470x1024:format=jpg/path/s13e7092c3e890cc1/image/i6bf04466cf4e8661/version/1720838925/image.jpg)
+![Image 26](assets/images/026_transf_1720838925.jpg)
 
 **運送業によくあるケースとして、市街化調整区域に駐車場があり事務所と駐車場が離れていることがあります。**
 
@@ -205,15 +205,15 @@ Markdown Content:
 
 **宿泊事業用トレーラーハウスの運用は弊社プランナーがお手伝いいたします。**
 
-![Image 27](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i83a65fe5e0e400f3/version/1611795696/image.jpg)
+![Image 27](assets/images/027_transf_1611795696.jpg)
 
-![Image 28](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i7878307da4c3a3cd/version/1720839038/image.jpg)
+![Image 28](assets/images/028_transf_1720839038.jpg)
 
-![Image 29](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i11fd158a7ec4c905/version/1696210095/image.jpg)
+![Image 29](assets/images/029_transf_1696210095.jpg)
 
-![Image 30](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i174ae979851fa46d/version/1728706631/image.jpg)
+![Image 30](assets/images/030_transf_1728706631.jpg)
 
-![Image 31](https://image.jimcdn.com/app/cms/image/transf/dimension=470x1024:format=jpg/path/s13e7092c3e890cc1/image/ieccc6846f800714b/version/1737791776/image.jpg)
+![Image 31](assets/images/031_transf_1737791776.jpg)
 
 **トレーラーハウスを宮古島でご検討のお客様は**
 
@@ -229,7 +229,7 @@ Markdown Content:
 
 **平成２４年１２月、国土交通省自動車局による『トレーラ・ハウスの運行に関わる制度改正』により、自動車としてのカテゴリーに追加されたので償却期間は４年となりました。中古は1年となります。**
 
-[![Image 32: ダウンロード](https://assets.jimstatic.com/s/img/cc/icons/pdf.png)](https://www.parkhomes-okinawa.com/app/download/9450480075/%E6%B8%9B%E4%BE%A1%E5%84%9F%E5%8D%B4.pdf?t=1770816994)
+[![Image 32: ダウンロード](assets/images/032_pdf.png)](https://www.parkhomes-okinawa.com/app/download/9450480075/%E6%B8%9B%E4%BE%A1%E5%84%9F%E5%8D%B4.pdf?t=1770816994)
 
 減価償却.pdf
 
@@ -243,23 +243,23 @@ PDFファイル 5.7 MB
 
 **投資家の皆様が安心して投資が出来るよう、経験を積んだプランナーが責任を持ってご案内いたします。**
 
-![Image 33](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i986755592f5bdd7e/version/1759832137/image.jpg)
+![Image 33](assets/images/033_transf_1759832137.jpg)
 
-![Image 34](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=png/path/s13e7092c3e890cc1/image/i1736a35b444c02a3/version/1759831999/image.png)
+![Image 34](assets/images/034_transf_1759831999.png)
 
-![Image 35](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/ia33b2bc12f806230/version/1667548673/image.jpg)
+![Image 35](assets/images/035_transf_1667548673.jpg)
 
 **パークホームズオキナワではフードトラック（キッチンカー）の製作に着手、ハイクオリティーのフードトラックを沖縄県内のお客様にご提供します。**
 
 **詳しくはお電話にてお問い合わせください！**
 
-![Image 36](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i0e9fdfc7b5297967/version/1718186324/image.jpg)
+![Image 36](assets/images/036_transf_1718186324.jpg)
 
-![Image 37](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/ieaa8dcee5cb80808/version/1759831272/image.jpg)
+![Image 37](assets/images/037_transf_1759831272.jpg)
 
-![Image 38](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i940fab13a01c243e/version/1645747337/image.jpg)
+![Image 38](assets/images/038_transf_1645747337.jpg)
 
-![Image 39](https://image.jimcdn.com/cdn-cgi/image/width=940%2Cheight=10000%2Cfit=contain%2Cformat=jpg%2C/app/cms/storage/image/path/s13e7092c3e890cc1/image/i23812ab71dac6571/version/1768817833/image.jpg)
+![Image 39](assets/images/039_width-940-2Cheight-10000-2Cfit-contain-2Cformat-jpg-2C_1768817833.jpg)
 
 **沖縄県にもトレーラーハウスやコンテナハウスが普及している中、特にコンテナハウスの海外製と国内製の真価が問われる時代になってきました。**
 
@@ -271,11 +271,11 @@ PDFファイル 5.7 MB
 
 **※コンテナの躯体自体は中国生産でJIS規格（建築用）****です。**
 
-![Image 40](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i51b7756903bbd6bb/version/1611985278/image.jpg)
+![Image 40](assets/images/040_transf_1611985278.jpg)
 
-![Image 41](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i57952ade01c07538/version/1619391817/image.jpg)
+![Image 41](assets/images/041_transf_1619391817.jpg)
 
-![Image 42](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i9da6bf6f7b16b560/version/1619391862/image.jpg)
+![Image 42](assets/images/042_transf_1619391862.jpg)
 
 **まず外国製・県外製のトレーラーハウスをお勧めしない理由を説明したいと思います。**
 
@@ -293,67 +293,67 @@ PDFファイル 5.7 MB
 
 **トレーラーハウスはお客様の大切な資産なので、購入は沖縄産のハウスをお勧めいたします！**
 
-![Image 43](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=png/path/s13e7092c3e890cc1/image/i9a672660caf7af77/version/1645016137/image.png)
+![Image 43](assets/images/043_transf_1645016137.png)
 
-![Image 44](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/ibc7ae28e9de4cbe1/version/1645016137/image.jpg)
+![Image 44](assets/images/044_transf_1645016137.jpg)
 
-![Image 45](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s13e7092c3e890cc1/image/i2a4ab9bdaebdca21/version/1645016137/image.jpg)
+![Image 45](assets/images/045_transf_1645016137.jpg)
 
-![Image 46](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/iaf297e49fd151a0a/version/1743411745/image.jpg)
+![Image 46](assets/images/046_transf_1743411745.jpg)
 
-![Image 47](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i21abb20b14a7619c/version/1718280738/image.jpg)
+![Image 47](assets/images/047_transf_1718280738.jpg)
 
-![Image 48](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i7528d2ffe28cfd83/version/1674025537/image.jpg)
+![Image 48](assets/images/048_transf_1674025537.jpg)
 
-![Image 49](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i5f9c9fc7f00aa62a/version/1718186824/image.jpg)
+![Image 49](assets/images/049_transf_1718186824.jpg)
 
-![Image 50](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/i02993666b414bd6a/version/1718186885/image.jpg)
+![Image 50](assets/images/050_transf_1718186885.jpg)
 
-![Image 51](https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s13e7092c3e890cc1/image/ibc41c50a6defa403/version/1718242462/image.jpg)
+![Image 51](assets/images/051_transf_1718242462.jpg)
 
-![Image 52](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/i29d07511ca616e70/version/1491907520/image.jpg)
+![Image 52](assets/images/052_transf_1491907520.jpg)
 
 クライアント様にCAD図面やパースのご確認を頂き、御契約となります。
 
-![Image 53](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/ieda583714c157a67/version/1491907830/image.jpg)
+![Image 53](assets/images/053_transf_1491907830.jpg)
 
 架台部分でもあるフレーム製作です。
 
 沖縄は塩害が酷いため**ドブ漬け**シャーシを標準でセットアップ。
 
-![Image 54](https://image.jimcdn.com/app/cms/image/transf/dimension=202x10000:format=jpg/path/s13e7092c3e890cc1/image/i68e4519db16b2ea1/version/1694246244/image.jpg)
+![Image 54](assets/images/054_transf_1694246244.jpg)
 
 沖縄の環境に合わせた強度のある鉄骨造です。サッシや玄関ドア等も沖縄仕様のアルミサッシを使用しております。
 
-![Image 55](https://image.jimcdn.com/app/cms/image/transf/dimension=203x10000:format=jpg/path/s13e7092c3e890cc1/image/ia5c92d6522e4fc4f/version/1531625172/image.jpg)
+![Image 55](assets/images/055_transf_1531625172.jpg)
 
 屋根はガルバリウム鋼板やコロニアル。外壁は窯業系、金属系、樹脂系サイディングを使用。色などもご要望に合わせてお選び頂けます。
 
-![Image 56](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/i8068753e9085deff/version/1549678434/image.jpg)
+![Image 56](assets/images/056_transf_1549678434.jpg)
 
 多くの経験を持つスタッフが断熱材やボード、クロスなど丁寧に仕上げます。
 
-![Image 57](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/if3eeaf91392e539a/version/1549678633/image.jpg)
+![Image 57](assets/images/057_transf_1549678633.jpg)
 
 仕上がった内装は細部まで点検し、フローリングなど磨き作業で完全に仕上げます。
 
-![Image 58](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/ib430793eab722672/version/1644999801/image.jpg)
+![Image 58](assets/images/058_transf_1644999801.jpg)
 
 特車申請（道路通行許可）をし、工場よりお客様の設置場所までは専用レッカー車で陸送致します。
 
-![Image 59](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/i552b6d8f35a775d9/version/1491909412/image.jpg)
+![Image 59](assets/images/059_transf_1491909412.jpg)
 
 専用ジャッキは溶融亜鉛メッキを施したものを使用。トレーラーハウスのレベル調整も専用ジャッキの役目です。
 
-![Image 60](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/i04e00f34c3d48a94/version/1568433381/image.jpg)
+![Image 60](assets/images/060_transf_1568433381.jpg)
 
 納品前にお客様にて施工内容の確認をして頂きます。クロスやフローリング、建具を細部まで確認して頂きます。
 
-![Image 61](https://image.jimcdn.com/app/cms/image/transf/dimension=213x10000:format=jpg/path/s13e7092c3e890cc1/image/i9c2ea0ccb3907fe0/version/1694239606/image.jpg)
+![Image 61](assets/images/061_transf_1694239606.jpg)
 
 ご契約日より約90日〜120日で納品です。基本、作業内容確認→鍵引渡し→保証書お渡し→納品は同日です。
 
-![Image 62](https://image.jimcdn.com/app/cms/image/transf/dimension=470x1024:format=jpg/path/s13e7092c3e890cc1/image/i059485c39157c573/version/1760943679/image.jpg)
+![Image 62](assets/images/062_transf_1760943679.jpg)
 
 **パークホームズオリジナルトレーラーヘッド**
 
@@ -365,7 +365,7 @@ PDFファイル 5.7 MB
 
 **※ 離島行きフェリーは全高4、2Mです。**
 
-![Image 63](https://image.jimcdn.com/app/cms/image/transf/dimension=470x1024:format=jpg/path/s13e7092c3e890cc1/image/i39ce1ba143dba973/version/1618032728/image.jpg)
+![Image 63](assets/images/063_transf_1618032728.jpg)
 
 米トヨタが誇るフルサイズピックアップ【タンドラ】
 
