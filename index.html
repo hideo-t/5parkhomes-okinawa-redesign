@@ -45,8 +45,8 @@
           <span></span>
         </button>
         <nav class="nav-links" data-state="closed">
-          <a href="#vision">パークホームズについて</a>
-          <a href="#models">製品</a>
+          <a href="#company-group">パークホームズについて</a>
+          <a href="#products-group">製品</a>
           <a href="#gallery">フォト</a>
           <a href="#estimate">自動見積</a>
           <a href="#chatbot">コンシェルジュ</a>
@@ -196,23 +196,90 @@
             <p class="eyebrow">Existing Photos</p>
             <h2>既存フォトアーカイブを沖縄テイストで再配置</h2>
             <p>旧サイトに掲載されていた写真をすべて読み込み、ギャラリーとアーカイブセクションで利用しています。</p>
-          </div>
-          <div class="gallery-grid">
-            <figure>
-              <img src="assets/images/001_width-470-2Cheight-1024-2Cfit-contain-2Cformat-jpg-2C_1770817266.jpg" alt="Solar Haven exterior" loading="lazy" />
-              <figcaption>Solar Haven 6M（オフグリッド仕様）</figcaption>
-            </figure>
-            <figure>
-              <img src="assets/images/008_transf_1767189839.jpg" alt="ランドリートレーラーハウス" loading="lazy" />
-              <figcaption>ランドリー事業向け導入事例</figcaption>
-            </figure>
-            <figure>
-              <img src="assets/images/014_transf_1746498859.jpg" alt="施工例" loading="lazy" />
-              <figcaption>大型台風対策のディテール</figcaption>
-            </figure>
-          </div>
+          </div>          <div class="gallery-grid" id="gallery-grid"></div>
         </div>
       </section>
+
+      <section id="company-group" class="section grouped">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Company</p>
+            <h2>会社概要・理念</h2>
+            <p>旧サイトの紹介文と沿革をカード形式で表示します。各カードは対応する写真とテキストがセットになっています。</p>
+          </div>
+          <div class="group-grid" id="company-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="products-group" class="section grouped muted">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Products</p>
+            <h2>製品情報 （Solar Haven / Park Round など）</h2>
+            <p>モデル別の機能紹介や仕様説明を強調表示し、関連写真とテキストを紐づけて表示します。</p>
+          </div>
+          <div class="group-grid" id="products-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="services-group" class="section grouped">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Services</p>
+            <h2>サービス内容・サポート</h2>
+            <p>ランドリー事業、レンタル、助成金活用など、サービス系コンテンツをまとめています。</p>
+          </div>
+          <div class="group-grid" id="services-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="cases-group" class="section grouped muted">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Case Studies</p>
+            <h2>実績・施工事例</h2>
+            <p>建設現場の休憩所や離島での活用例など、導入事例を画像付きで整理しています。</p>
+          </div>
+          <div class="group-grid" id="cases-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="faq-group" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">FAQ</p>
+            <h2>よくある質問・法令情報</h2>
+            <p>建築基準法や道路運送車両法に関する注意点を含め、旧サイトのQ&Aを整理しました。</p>
+          </div>
+          <div class="faq" id="faq-list"></div>
+        </div>
+      </section>
+
+      <section id="contact-section" class="section contact">
+        <div class="container grid-2">
+          <div>
+            <p class="eyebrow">Contact</p>
+            <h2>お問い合わせ・アクセス</h2>
+            <p>旧サイトに掲載されていた拠点連絡先を整理し、チャネル横断で確認できるようにしました。</p>
+            <div class="contact-info">
+              <div><h3>本社</h3><p>098-856-6666</p></div>
+              <div><h3>宮古</h3><p>0980-72-0006</p></div>
+              <div><h3>石垣</h3><p>0980-82-2350</p></div>
+              <div><h3>奄美</h3><p>準備中</p></div>
+            </div>
+            <div class="contact-dynamic" id="contact-grid" aria-live="polite"></div>
+          </div>
+          <form class="contact-form">
+            <label>お名前<input type="text" name="name" placeholder="例：山田 太郎" required /></label>
+            <label>メールアドレス<input type="email" name="email" placeholder="you@example.com" required /></label>
+            <label>ご相談内容<textarea name="message" rows="4" placeholder="用途やご希望の導入時期など"></textarea></label>
+            <button type="submit" class="btn primary">送信する</button>
+            <p class="form-note">送信で個人情報の取り扱いに同意したものとみなします。</p>
+          </form>
+        </div>
+      </section>
+
+
 
       <article id="estimate" class="section estimate">
         <div class="container grid-2">
@@ -383,6 +450,41 @@
               "@type": "ListItem",
               "position": 3,
               "name": "アーカイブ"
+            }
+          ]
+        },
+        {
+          "@type": "Product",
+          "name": "Solar Haven 6M",
+          "brand": "Park Homes Okinawa",
+          "description": "沖縄離島でも稼働するオフグリッド・トレーラーハウス。2kW 太陽光と拡張バッテリーを搭載し、台風や停電時のBCPを支援。",
+          "url": "https://www.parkhomes-okinawa.com/#products-group"
+        },
+        {
+          "@type": "Product",
+          "name": "Park Round 12M",
+          "brand": "Park Homes Okinawa",
+          "description": "コンテナベースでランドリーや宿泊に対応する大型モデル。助成金活用やカスタム外装に対応。",
+          "url": "https://www.parkhomes-okinawa.com/#products-group"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "台風や塩害への対策は？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "ドブ付け鉄骨と防錆塗装、アンカリングで耐風性を確保し、オフグリッド設備で停電時も運用できます。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "トレーラーハウスの法的な扱いは？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "建築基準法および道路運送車両法に基づき「随時かつ任意に移動できる」構造を維持し、必要に応じて特殊車両通行許可を取得します。"
+              }
             }
           ]
         }

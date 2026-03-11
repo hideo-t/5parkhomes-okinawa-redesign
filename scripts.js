@@ -73,12 +73,11 @@ if (estimateForm && estimateResult) {
       <strong>概算金額:</strong> ¥${total.toLocaleString()}（税別）<br />
       <strong>モデル:</strong> ${model} / 用途: ${usage}<br />
       <strong>仕上げ:</strong> ${finish} / オプション: ${optionList}<br />
-      <em>※既存サイトの表現に基づく暫定値です。最終見積は担当者よりご連絡します。</em>
+      <em>※旧サイトの表現を基にした暫定値です。最終見積は担当者よりご連絡します。</em>
     `;
   });
 
-  const printButton = document.getElementById('estimate-print');
-  printButton?.addEventListener('click', () => {
+  document.getElementById('estimate-print')?.addEventListener('click', () => {
     window.print();
   });
 }
@@ -92,19 +91,6 @@ if (chatFab) {
 
 const legacyStatus = document.getElementById('legacy-status');
 const legacyContent = document.getElementById('legacy-content');
-
-async function loadLegacyContent() {
-  if (!legacyContent || !legacyStatus) return;
-  try {
-    const response = await fetch('reference-site.md', { cache: 'no-store' });
-    const markdown = await response.text();
-    legacyContent.innerHTML = markdownToHtml(markdown);
-    legacyStatus.textContent = '旧サイトの写真・説明文を全件表示しています。';
-  } catch (error) {
-    legacyStatus.textContent = 'アーカイブの読み込みに失敗しました。';
-    legacyContent.innerHTML = `<p>${error.message}</p>`;
-  }
-}
 
 function markdownToHtml(md) {
   const blocks = md.replace(/\r\n/g, '\n').split(/\n{2,}/);
@@ -128,4 +114,116 @@ function markdownToHtml(md) {
     .join('');
 }
 
+async function loadLegacyContent() {
+  if (!legacyContent || !legacyStatus) return;
+  try {
+    const response = await fetch('reference-site.md', { cache: 'no-store' });
+    const markdown = await response.text();
+    legacyContent.innerHTML = markdownToHtml(markdown);
+    legacyStatus.textContent = '旧サイトの写真・説明文を全件表示しています。';
+  } catch (error) {
+    legacyStatus.textContent = 'アーカイブの読み込みに失敗しました。';
+    legacyContent.innerHTML = `<p>${error.message}</p>`;
+  }
+}
+
+function highlightKeywords(text = '', keywords = []) {
+  return keywords.reduce((acc, keyword) => acc.replaceAll(keyword, `<strong>${keyword}</strong>`), text);
+}
+
+function renderCardGroup(targetId, entries = [], keywords = []) {
+  const target = document.getElementById(targetId);
+  if (!target || !entries.length) return;
+  target.innerHTML = entries
+    .map((entry) => {
+      const body = highlightKeywords(entry.text || '', keywords);
+      const image = entry.image
+        ? `<figure><img src="${entry.image}" alt="${entry.imageAlt || ''}" loading="lazy" /></figure>`
+        : '';
+      return `
+        <article class="content-card">
+          ${image}
+          <div>
+            <h3>${entry.title || 'コンテンツ'}</h3>
+            <p>${body || '詳細情報が準備中です。'}</p>
+          </div>
+        </article>
+      `;
+    })
+    .join('');
+}
+
+function renderFaq(targetId, entries = [], keywords = []) {
+  const target = document.getElementById(targetId);
+  if (!target || !entries.length) return;
+  target.innerHTML = entries
+    .map((entry) => {
+      const question = entry.title || 'よくある質問';
+      const answer = highlightKeywords(entry.text || '旧サイトの記載をご確認ください。', keywords);
+      return `
+        <details>
+          <summary>${question}</summary>
+          <p>${answer}</p>
+        </details>
+      `;
+    })
+    .join('');
+}
+
+function renderContact(targetId, entries = [], keywords = []) {
+  const target = document.getElementById(targetId);
+  if (!target || !entries.length) return;
+  target.innerHTML = entries
+    .map((entry) => {
+      const body = highlightKeywords(entry.text || '', keywords);
+      return `
+        <article>
+          <h4>${entry.title || 'お問い合わせ情報'}</h4>
+          <p>${body}</p>
+        </article>
+      `;
+    })
+    .join('');
+}
+
+function renderGallery(entries = []) {
+  const gallery = document.getElementById('gallery-grid');
+  if (!gallery || !entries.length) return;
+  gallery.innerHTML = entries
+    .slice(0, 8)
+    .map(
+      (entry) => `
+        <figure>
+          <img src="${entry.image}" alt="${entry.imageAlt || entry.title}" loading="lazy" />
+          <figcaption>${entry.title}</figcaption>
+        </figure>
+      `
+    )
+    .join('');
+}
+
+async function loadStructuredContent() {
+  try {
+    const response = await fetch('content/pairs.json', { cache: 'no-store' });
+    const data = await response.json();
+    const keywords = data.keywordHighlight || [];
+    const groups = data.entries.reduce((acc, entry) => {
+      if (!acc[entry.category]) acc[entry.category] = [];
+      acc[entry.category].push(entry);
+      return acc;
+    }, {});
+
+    renderGallery(data.entries.filter((entry) => entry.image));
+    renderCardGroup('company-grid', groups.company || [], keywords);
+    renderCardGroup('products-grid', groups.products || [], keywords);
+    renderCardGroup('services-grid', groups.services || [], keywords);
+    renderCardGroup('cases-grid', groups.cases || [], keywords);
+    renderFaq('faq-list', groups.faq || [], keywords);
+    renderContact('contact-grid', groups.contact || [], keywords);
+  } catch (error) {
+    console.error('コンテンツ生成に失敗しました', error);
+  }
+}
+
+loadStructuredContent();
 loadLegacyContent();

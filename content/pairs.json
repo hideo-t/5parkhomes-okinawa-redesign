@@ -1,0 +1,600 @@
+{
+  "generatedAt": "2026-03-11T22:33:04.991153+00:00",
+  "entryCount": 63,
+  "categories": [
+    "company",
+    "products",
+    "services",
+    "cases",
+    "faq",
+    "contact"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "category": "company",
+      "title": "パークホームズオキナワは、沖縄県内で初めてトレーラーハウスの製造・販売を手がけた専門会社として、開業から13年にわたり実",
+      "text": "パークホームズオキナワは、沖縄県内で初めてトレーラーハウスの製造・販売を手がけた専門会社として、開業から13年にわたり実績を積み重ねてきました。 沖縄の厳しい気候環境では、輸入ハウスや低価格重視の住宅は長期的な維持が難しく、適切な設計や施工がなければ、数年で大きな劣化が進んでしまうケースも少なくありません。 私たちは沖縄の風土を熟知した設計と高品質な製造体制で、長く安心して使えるトレーラーハウスをご提供しています。他社をご検討された後でも構いません。ぜひ一度パークホームズオキナワをご覧いただき、その違いをご実感ください。",
+      "image": "assets/images/001_width-470-2Cheight-1024-2Cfit-contain-2Cformat-jpg-2C_1770817266.jpg",
+      "imageAlt": "沖縄トレーラーハウス 会社概要・理念 事例 1",
+      "sourceAlt": "Image 1"
+    },
+    {
+      "id": 2,
+      "category": "products",
+      "title": "オフグリッドトレーラーハウスの特徴は電力や水道といったインフラに頼らず、自給自足の生活ができること｡ オフグリッドトレー",
+      "text": "オフグリッドトレーラーハウスの特徴は電力や水道といったインフラに頼らず、自給自足の生活ができること｡ オフグリッドトレーラーハウス『ソーラーヘブン 6M（Solar Haven 6M)』 屋根や壁面にセットされる太陽光パネル（2Kw）も軽量化され、バッテリーも容量（100V - 200V）を即時に追加できる機能を搭載。 特に離島では台風時にかなりの確率で停電になり、地域によっては3日以上停電することもあるため、オフグリッドトレーラーハウスで災害時も生活を守ります。",
+      "image": "assets/images/002_transf_1754993720.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 2",
+      "sourceAlt": "Image 2"
+    },
+    {
+      "id": 3,
+      "category": "products",
+      "title": "Image 3",
+      "text": "",
+      "image": "assets/images/003_transf_1754993720.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 3",
+      "sourceAlt": "Image 3"
+    },
+    {
+      "id": 4,
+      "category": "products",
+      "title": "Image 4",
+      "text": "",
+      "image": "assets/images/004_transf_1764164418.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 4",
+      "sourceAlt": "Image 4"
+    },
+    {
+      "id": 5,
+      "category": "products",
+      "title": "Image 5",
+      "text": "",
+      "image": "assets/images/005_transf_1764164418.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 5",
+      "sourceAlt": "Image 5"
+    },
+    {
+      "id": 6,
+      "category": "products",
+      "title": "Image 6",
+      "text": "",
+      "image": "assets/images/006_transf_1764164574.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 6",
+      "sourceAlt": "Image 6"
+    },
+    {
+      "id": 7,
+      "category": "products",
+      "title": "Image 7",
+      "text": "",
+      "image": "assets/images/007_transf_1764164574.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 7",
+      "sourceAlt": "Image 7"
+    },
+    {
+      "id": 8,
+      "category": "products",
+      "title": "近年各地でトレーラーハウスでコインランドリー事業が増えつつあります",
+      "text": "近年各地でトレーラーハウスでコインランドリー事業が増えつつあります。 本来ランドリー事業は2000〜4000万円ほどイニシャルコストが必要なためなかなか手が届かない事業でしたが、 『ものづくり助成金』などが利用できることから、資金的にハードルが下がり比較的身近になりました。 またトレーラーハウスで設置場所を選ばないことから、需要が増えてきております。 ※設置場所要確認",
+      "image": "assets/images/008_transf_1767189839.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 8",
+      "sourceAlt": "Image 8"
+    },
+    {
+      "id": 9,
+      "category": "products",
+      "title": "Image 9",
+      "text": "",
+      "image": "assets/images/009_width-1920-2Cheight-400-2Cfit-contain-2Cformat-jpg-2C_1768816364.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 9",
+      "sourceAlt": "Image 9"
+    },
+    {
+      "id": 10,
+      "category": "products",
+      "title": "Image 10",
+      "text": "",
+      "image": "assets/images/010_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816364.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 10",
+      "sourceAlt": "Image 10"
+    },
+    {
+      "id": 11,
+      "category": "products",
+      "title": "Image 11",
+      "text": "",
+      "image": "assets/images/011_width-1920-2Cheight-400-2Cfit-contain-2Cformat-jpg-2C_1768816364.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 11",
+      "sourceAlt": "Image 11"
+    },
+    {
+      "id": 12,
+      "category": "products",
+      "title": "Image 12",
+      "text": "",
+      "image": "assets/images/012_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816948.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 12",
+      "sourceAlt": "Image 12"
+    },
+    {
+      "id": 13,
+      "category": "products",
+      "title": "Image 13",
+      "text": "",
+      "image": "assets/images/013_width-1920-2Cheight-400-2Cfit-contain-2Cformat-png-2C_1768816948.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 13",
+      "sourceAlt": "Image 13"
+    },
+    {
+      "id": 14,
+      "category": "company",
+      "title": "建設現場の事務所や休憩所に重宝いたします",
+      "text": "建設現場の事務所や休憩所に重宝いたします。ライフラインが無い現場では発電機から電気を供給します。 サイズは各種あり、休憩室は大人4人が休むことができます。その他シャワー室やトイレもございます。 【トレーラーハウスを大きく分けると2種類ございます】 ① 特殊車両タイプ 車幅2.5M以上 3.4M 以内 ② 車検対応タイプ 車幅2.5M 以内（重量3.5トン以内） 上記いずれもトレーラーハウスである以上『随時かつ任意に移動できる』ものと定められております。 ①と②の違いについてはサイズの基準のみで車幅2.5M・車高3.8M・全長12Mを超えるか否かです。 『道路運送車両の保安基準』 保安基準第2条の制限を超えたものは、基準緩和認定を受け特殊車両通行許可を取得しなければなりません。 『建築基準法』車両を用いた工作物 ・トレーラーハウスに関する建築基準法の取扱いについて（昭和62年12月1日 住指発第419号） ・トレーラーハウスの建築基準法の取扱いについて（平成9年3月31日 住指発第170号） 建築基準法上では『随時かつ任意に移動できるもの』以外は建築物としていますが、現段階での随時かつ任意とは、移動することに支障がある階段・ポーチ・ベランダがあるものやタイヤなどが取り外されているものを指しています。決してナンバーがある・なしではございません。 詳しくは下記協会ホームページを参照にしてください。 車検対応トレーラーハウスも【車検切れ】や【牽引車が準備できない】などの理由で【随時かつ任意に移動できない】ものが多いのも現状です。 また、最近では積載用シャーシの販売も多くみられ、問題点として積載物の重量オーバー（3.5トン以上）で 正規に移動ができない車両、クレーンやユニックの手配で移動するのに一定期間を要するものも多く存在し、 ナンバーが有るタイプ・無いタイプに関わらずトレーラーハウス選びには事前に正確な情報が必要になります。 日本RV・トレーラーハウス協会 [http//:www.jrvia.jp](http://www.jrvia.jp/ \"www.jrvia.jp\") 沖縄県トレーラーハウス協会[http//:www.trailer-okinawa.jp](http://www.trailer-okinawa.jp/ \"www.trailer-okinawa.jp\") THAトレーラーハウス協会 [http//:www.trailer-house.or.jp](http://trailer-house.or.jp/ \"trailer-house.or.jp\") 弊社はトレーラーハウス製造販売の専門店として平成２７年に設立されました。 以後、沖縄県内外（離島含む）で３００棟以上の販売実績を誇ります。 沖縄では本土から輸送されたハウスのほとんどはシロアリ被害や台風被害で 10年以内に半壊する ハウスが多く、それは 沖縄の実態 を知らない故、木造トレーラーハウス を安易に購入してしまうからです。 確かに木造住宅はデザイン性に優れ、加工も楽なので安価で短期間で製作できます。 しかし高湿度の沖縄では1年の平均が８０％もあり、本土の杉・ヒノキ材（寒冷地）や輸入杉・ヒノキ材は適さないとされてます。沖縄ではRC住宅が一般化し、木造住宅はほとんど普及しないのが理由の一つなのです。 【適材適所】という言葉は、伝統的な日本家屋や寺社などの建築現場での木材の使い分けを表した言葉です。 その言葉通り木材には癖があり高湿度で水分を含むと反ったり曲がったり、シロアリが繁殖したりします。 想像以上の台風や塩害、シロアリ被害は地元の業者しか知り得ませんので、購入をご検討のお客様は是非ご相談ください。 海に囲まれた沖縄ではドブ付け鉄骨造が必須です！超大型台風でも倒壊しない・壊れないトレーラーハウスを選択してください。 県内製造は 弊社だけです！ まずはお電話でお問い合わせください ⭐︎ 沖縄本社 [098-856-6666](tel:098-856-6666) ⭐︎ 宮古店 [0980-72-0006](tel:0980-72-0006) ⭐︎ 石垣店（信用組内）[0980-82-2350](tel:0980-82-2350) ⭐︎ 奄美店 準備中 トレーラーハウスはリセールバリューも高く、不要になれば 即買取いたします。 【ハイクオリティーのトレーラーハウス・コンテナハウス・キッチンカーは弊社にお任せください】 県外製造または海外製トレーラーハウスは超大型台風やシロアリで必ず破損し、後に多額な補修メンテナンス費用が掛かりますので、【沖縄製造】のハウスをお勧めいたします。",
+      "image": "assets/images/014_transf_1746498859.jpg",
+      "imageAlt": "沖縄トレーラーハウス 会社概要・理念 事例 14",
+      "sourceAlt": "Image 14"
+    },
+    {
+      "id": 15,
+      "category": "products",
+      "title": "Image 15",
+      "text": "",
+      "image": "assets/images/015_transf_1683797684.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 15",
+      "sourceAlt": "Image 15"
+    },
+    {
+      "id": 16,
+      "category": "products",
+      "title": "Image 16",
+      "text": "",
+      "image": "assets/images/016_transf_1756709290.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 16",
+      "sourceAlt": "Image 16"
+    },
+    {
+      "id": 17,
+      "category": "products",
+      "title": "Image 17",
+      "text": "",
+      "image": "assets/images/017_transf_1729294686.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 17",
+      "sourceAlt": "Image 17"
+    },
+    {
+      "id": 18,
+      "category": "products",
+      "title": "Image 18",
+      "text": "",
+      "image": "assets/images/018_transf_1766021875.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 18",
+      "sourceAlt": "Image 18"
+    },
+    {
+      "id": 19,
+      "category": "products",
+      "title": "コンテナベースのトレーラーハウス パークラウンドは6M、12Mを用意しております",
+      "text": "コンテナベースのトレーラーハウス パークラウンドは6M、12Mを用意しております。 価格は800〜1500万円（税別） ・設置輸送代別途 オプション多数により価格が変わります。 例：宿泊専用トレーラーハウス 家具家電付き→ 1800万円程（2025/04現在）",
+      "image": "assets/images/019_transf_1672204508.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 19",
+      "sourceAlt": "Image 19"
+    },
+    {
+      "id": 20,
+      "category": "products",
+      "title": "Image 20",
+      "text": "",
+      "image": "assets/images/020_transf_1756707462.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 20",
+      "sourceAlt": "Image 20"
+    },
+    {
+      "id": 21,
+      "category": "products",
+      "title": "Image 21",
+      "text": "",
+      "image": "assets/images/021_transf_1754994566.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 21",
+      "sourceAlt": "Image 21"
+    },
+    {
+      "id": 22,
+      "category": "products",
+      "title": "パークムービング6Mはコンテナベースのトレーラーハウスです",
+      "text": "パークムービング6Mはコンテナベースのトレーラーハウスです。 離島仕様は塩害（サビ）から守るため、あらゆる方法でサビをブロック 本車両、開口は2箇所設定できます。 価格 363万円（税別） 専用ジャッキ6本付き ※ サイディング・サッシ・ドアは付属しませんのでご準備ください。 ※輸送・設置費別途かかります。 ※写真は完成事例",
+      "image": "assets/images/022_transf_1672204590.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 22",
+      "sourceAlt": "Image 22"
+    },
+    {
+      "id": 23,
+      "category": "products",
+      "title": "半完成品なのでDIY感覚でオリジナルトレーラーハウスが製作できます！ 本体は『半完成』にての販売になりますので、少し経験",
+      "text": "半完成品なのでDIY感覚でオリジナルトレーラーハウスが製作できます！ 本体は『半完成』にての販売になりますので、少し経験のある方でしたら、安価でお好みのトレーラーハウスが製作できます。※写真は完成事例",
+      "image": "assets/images/023_transf_1705981635.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 23",
+      "sourceAlt": "Image 23"
+    },
+    {
+      "id": 24,
+      "category": "products",
+      "title": "Image 24",
+      "text": "",
+      "image": "assets/images/024_transf_1757629800.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 24",
+      "sourceAlt": "Image 24"
+    },
+    {
+      "id": 25,
+      "category": "products",
+      "title": "Image 25",
+      "text": "",
+      "image": "assets/images/025_transf_1757629822.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 25",
+      "sourceAlt": "Image 25"
+    },
+    {
+      "id": 26,
+      "category": "products",
+      "title": "Image 26",
+      "text": "",
+      "image": "assets/images/026_transf_1720838925.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 26",
+      "sourceAlt": "Image 26"
+    },
+    {
+      "id": 27,
+      "category": "products",
+      "title": "運送業によくあるケースとして、市街化調整区域に駐車場があり事務所と駐車場が離れていることがあります",
+      "text": "運送業によくあるケースとして、市街化調整区域に駐車場があり事務所と駐車場が離れていることがあります。 トレーラーハウスは市街化調整区域でも認可営業所として事務所を開設することができるため、事務所と駐車場を併設できることです。 建築法上、市街化調整区域の駐車場内にプレハブを置くことは禁止されており、行政処分の対象となります。そのため、合法的にトレーラーハウスが活用されることが多くなりつつあります。 上記のようなことで御検討中のお客様は是非ご相談くださいませ。 トレーラーハウスで宿泊施設事業やショップ・住宅として貸出した場合の高利回りを確保。 コストパフォーマンスもよく、何よりスピーディー！ パークホームズオキナワでは宿泊事業用トレーラーハウスを数多く販売してきました。 宿泊事業用トレーラーハウスの運用は弊社プランナーがお手伝いいたします。",
+      "image": "assets/images/027_transf_1611795696.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 27",
+      "sourceAlt": "Image 27"
+    },
+    {
+      "id": 28,
+      "category": "products",
+      "title": "Image 28",
+      "text": "",
+      "image": "assets/images/028_transf_1720839038.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 28",
+      "sourceAlt": "Image 28"
+    },
+    {
+      "id": 29,
+      "category": "products",
+      "title": "Image 29",
+      "text": "",
+      "image": "assets/images/029_transf_1696210095.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 29",
+      "sourceAlt": "Image 29"
+    },
+    {
+      "id": 30,
+      "category": "products",
+      "title": "Image 30",
+      "text": "",
+      "image": "assets/images/030_transf_1728706631.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 30",
+      "sourceAlt": "Image 30"
+    },
+    {
+      "id": 31,
+      "category": "products",
+      "title": "Image 31",
+      "text": "",
+      "image": "assets/images/031_transf_1737791776.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 31",
+      "sourceAlt": "Image 31"
+    },
+    {
+      "id": 32,
+      "category": "products",
+      "title": "トレーラーハウスを宮古島でご検討のお客様は 宮古店にご相談ください！ 住居、ホテル、レンタカー事務所など、設置時例がたく",
+      "text": "トレーラーハウスを宮古島でご検討のお客様は 宮古店にご相談ください！ 住居、ホテル、レンタカー事務所など、設置時例がたくさん御座います。 見学やご案内は事前予約が必要です。 宮古店 [０９８０ー７２ー０００６](tel:%EF%BC%90%EF%BC%99%EF%BC%98%EF%BC%90%E3%83%BC%EF%BC%97%EF%BC%99%E3%83%BC%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%96) トレーラーハウスは動力を持たない自動車（被牽引車）に当たるため減価償却は４年定率法が適用です。 平成２４年１２月、国土交通省自動車局による『トレーラ・ハウスの運行に関わる制度改正』により、自動車としてのカテゴリーに追加されたので償却期間は４年となりました。中古は1年となります。 [![Image 32: ダウンロード](assets/images/032_pdf.png)](https://www.parkhomes-okinawa.com/app/download/9450480075/%E6%B8%9B%E4%BE%A1%E5%84%9F%E5%8D%B4.pdf?t=1770816994) 減価償却.pdf PDFファイル 5.7 MB 近年流行のグランピング場・キャンプ場にトレーラーハウスが目立つようになりました。 リゾート地沖縄では、他県と比べ宿泊施設などに投資を掛けやすい条件が満たされております。 沖縄本島・宮古島・石垣島・奄美大島でトレーラーハウスを使い高利回りでの運営をお手伝いします。 投資家の皆様が安心して投資が出来るよう、経験を積んだプランナーが責任を持ってご案内いたします。",
+      "image": "assets/images/033_transf_1759832137.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 32",
+      "sourceAlt": "Image 33"
+    },
+    {
+      "id": 33,
+      "category": "products",
+      "title": "Image 34",
+      "text": "",
+      "image": "assets/images/034_transf_1759831999.png",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 33",
+      "sourceAlt": "Image 34"
+    },
+    {
+      "id": 34,
+      "category": "products",
+      "title": "Image 35",
+      "text": "",
+      "image": "assets/images/035_transf_1667548673.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 34",
+      "sourceAlt": "Image 35"
+    },
+    {
+      "id": 35,
+      "category": "company",
+      "title": "パークホームズオキナワではフードトラック（キッチンカー）の製作に着手、ハイクオリティーのフードトラックを沖縄県内のお客様",
+      "text": "パークホームズオキナワではフードトラック（キッチンカー）の製作に着手、ハイクオリティーのフードトラックを沖縄県内のお客様にご提供します。 詳しくはお電話にてお問い合わせください！",
+      "image": "assets/images/036_transf_1718186324.jpg",
+      "imageAlt": "沖縄トレーラーハウス 会社概要・理念 事例 35",
+      "sourceAlt": "Image 36"
+    },
+    {
+      "id": 36,
+      "category": "products",
+      "title": "Image 37",
+      "text": "",
+      "image": "assets/images/037_transf_1759831272.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 36",
+      "sourceAlt": "Image 37"
+    },
+    {
+      "id": 37,
+      "category": "products",
+      "title": "Image 38",
+      "text": "",
+      "image": "assets/images/038_transf_1645747337.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 37",
+      "sourceAlt": "Image 38"
+    },
+    {
+      "id": 38,
+      "category": "products",
+      "title": "Image 39",
+      "text": "",
+      "image": "assets/images/039_width-940-2Cheight-10000-2Cfit-contain-2Cformat-jpg-2C_1768817833.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 38",
+      "sourceAlt": "Image 39"
+    },
+    {
+      "id": 39,
+      "category": "products",
+      "title": "沖縄県にもトレーラーハウスやコンテナハウスが普及している中、特にコンテナハウスの海外製と国内製の真価が問われる時代になっ",
+      "text": "沖縄県にもトレーラーハウスやコンテナハウスが普及している中、特にコンテナハウスの海外製と国内製の真価が問われる時代になってきました。 今までは海外製コンテナハウスは安価なことから普及しましたが、「雨漏りや台風被害」から沖縄では不向きとの声も多くあり、現在ではハイクオリティの国内製が人気となりつつあります。 海外製コンテナハウスは設備もパッケージになることが多く、水栓金具などのトラブルがあると日本製の金具との相性も悪く、全て日本製に交換するようなことが多くあります。 弊社は数年前よりこのようなノウハウを構築しており、ハイクオリティの国内製コンテナハウス製作に着手、数多くのクライアント様の信頼を得ております。 ※コンテナの躯体自体は中国生産でJIS規格（建築用）です。",
+      "image": "assets/images/040_transf_1611985278.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 39",
+      "sourceAlt": "Image 40"
+    },
+    {
+      "id": 40,
+      "category": "products",
+      "title": "Image 41",
+      "text": "",
+      "image": "assets/images/041_transf_1619391817.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 40",
+      "sourceAlt": "Image 41"
+    },
+    {
+      "id": 41,
+      "category": "products",
+      "title": "Image 42",
+      "text": "",
+      "image": "assets/images/042_transf_1619391862.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 41",
+      "sourceAlt": "Image 42"
+    },
+    {
+      "id": 42,
+      "category": "company",
+      "title": "まず外国製・県外製のトレーラーハウスをお勧めしない理由を説明したいと思います",
+      "text": "まず外国製・県外製のトレーラーハウスをお勧めしない理由を説明したいと思います。 確かに外国製のトレーラーハウスは安価でオシャレですが、細部の品質（クオリティー）が非常に悪く、特に沖縄の環境に適応できないハウスがほとんどです。 「塩害での錆」「湿気によるカビや腐れ」「シロアリ」「大型台風」により５年もすると 見るも無残なハウス になってしまいます（写真下参照） 県外のトレーラーハウス専門店では、沖縄の 過酷な環境 を理解されておりません。 弊社のトレーラーハウスはシャーシ・躯体も全て沖縄製作で塩害に強い ドブづけ です。 海外製や県外製のハウスは木材を使用したハウスが多く、躯体は必ずシロアリの被害におかされます。 またサッシやドア等は台風や横殴りの雨に強い 沖縄仕様 を使っているため、ハウスは長年ご愛用いただけます。 トレーラーハウスはお客様の大切な資産なので、購入は沖縄産のハウスをお勧めいたします！",
+      "image": "assets/images/043_transf_1645016137.png",
+      "imageAlt": "沖縄トレーラーハウス 会社概要・理念 事例 42",
+      "sourceAlt": "Image 43"
+    },
+    {
+      "id": 43,
+      "category": "products",
+      "title": "Image 44",
+      "text": "",
+      "image": "assets/images/044_transf_1645016137.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 43",
+      "sourceAlt": "Image 44"
+    },
+    {
+      "id": 44,
+      "category": "products",
+      "title": "Image 45",
+      "text": "",
+      "image": "assets/images/045_transf_1645016137.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 44",
+      "sourceAlt": "Image 45"
+    },
+    {
+      "id": 45,
+      "category": "products",
+      "title": "Image 46",
+      "text": "",
+      "image": "assets/images/046_transf_1743411745.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 45",
+      "sourceAlt": "Image 46"
+    },
+    {
+      "id": 46,
+      "category": "products",
+      "title": "Image 47",
+      "text": "",
+      "image": "assets/images/047_transf_1718280738.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 46",
+      "sourceAlt": "Image 47"
+    },
+    {
+      "id": 47,
+      "category": "products",
+      "title": "Image 48",
+      "text": "",
+      "image": "assets/images/048_transf_1674025537.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 47",
+      "sourceAlt": "Image 48"
+    },
+    {
+      "id": 48,
+      "category": "products",
+      "title": "Image 49",
+      "text": "",
+      "image": "assets/images/049_transf_1718186824.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 48",
+      "sourceAlt": "Image 49"
+    },
+    {
+      "id": 49,
+      "category": "products",
+      "title": "Image 50",
+      "text": "",
+      "image": "assets/images/050_transf_1718186885.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 49",
+      "sourceAlt": "Image 50"
+    },
+    {
+      "id": 50,
+      "category": "products",
+      "title": "Image 51",
+      "text": "",
+      "image": "assets/images/051_transf_1718242462.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 50",
+      "sourceAlt": "Image 51"
+    },
+    {
+      "id": 51,
+      "category": "products",
+      "title": "Image 52",
+      "text": "",
+      "image": "assets/images/052_transf_1491907520.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 51",
+      "sourceAlt": "Image 52"
+    },
+    {
+      "id": 52,
+      "category": "products",
+      "title": "クライアント様にCAD図面やパースのご確認を頂き、御契約となります",
+      "text": "クライアント様にCAD図面やパースのご確認を頂き、御契約となります。",
+      "image": "assets/images/053_transf_1491907830.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 52",
+      "sourceAlt": "Image 53"
+    },
+    {
+      "id": 53,
+      "category": "products",
+      "title": "架台部分でもあるフレーム製作です",
+      "text": "架台部分でもあるフレーム製作です。 沖縄は塩害が酷いためドブ漬けシャーシを標準でセットアップ。",
+      "image": "assets/images/054_transf_1694246244.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 53",
+      "sourceAlt": "Image 54"
+    },
+    {
+      "id": 54,
+      "category": "products",
+      "title": "沖縄の環境に合わせた強度のある鉄骨造です",
+      "text": "沖縄の環境に合わせた強度のある鉄骨造です。サッシや玄関ドア等も沖縄仕様のアルミサッシを使用しております。",
+      "image": "assets/images/055_transf_1531625172.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 54",
+      "sourceAlt": "Image 55"
+    },
+    {
+      "id": 55,
+      "category": "products",
+      "title": "屋根はガルバリウム鋼板やコロニアル",
+      "text": "屋根はガルバリウム鋼板やコロニアル。外壁は窯業系、金属系、樹脂系サイディングを使用。色などもご要望に合わせてお選び頂けます。",
+      "image": "assets/images/056_transf_1549678434.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 55",
+      "sourceAlt": "Image 56"
+    },
+    {
+      "id": 56,
+      "category": "products",
+      "title": "多くの経験を持つスタッフが断熱材やボード、クロスなど丁寧に仕上げます",
+      "text": "多くの経験を持つスタッフが断熱材やボード、クロスなど丁寧に仕上げます。",
+      "image": "assets/images/057_transf_1549678633.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 56",
+      "sourceAlt": "Image 57"
+    },
+    {
+      "id": 57,
+      "category": "products",
+      "title": "仕上がった内装は細部まで点検し、フローリングなど磨き作業で完全に仕上げます",
+      "text": "仕上がった内装は細部まで点検し、フローリングなど磨き作業で完全に仕上げます。",
+      "image": "assets/images/058_transf_1644999801.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 57",
+      "sourceAlt": "Image 58"
+    },
+    {
+      "id": 58,
+      "category": "faq",
+      "title": "特車申請（道路通行許可）をし、工場よりお客様の設置場所までは専用レッカー車で陸送致します",
+      "text": "特車申請（道路通行許可）をし、工場よりお客様の設置場所までは専用レッカー車で陸送致します。",
+      "image": "assets/images/059_transf_1491909412.jpg",
+      "imageAlt": "沖縄トレーラーハウス FAQ/法令 事例 58",
+      "sourceAlt": "Image 59"
+    },
+    {
+      "id": 59,
+      "category": "products",
+      "title": "専用ジャッキは溶融亜鉛メッキを施したものを使用",
+      "text": "専用ジャッキは溶融亜鉛メッキを施したものを使用。トレーラーハウスのレベル調整も専用ジャッキの役目です。",
+      "image": "assets/images/060_transf_1568433381.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 59",
+      "sourceAlt": "Image 60"
+    },
+    {
+      "id": 60,
+      "category": "cases",
+      "title": "納品前にお客様にて施工内容の確認をして頂きます",
+      "text": "納品前にお客様にて施工内容の確認をして頂きます。クロスやフローリング、建具を細部まで確認して頂きます。",
+      "image": "assets/images/061_transf_1694239606.jpg",
+      "imageAlt": "沖縄トレーラーハウス 実績・施工事例 事例 60",
+      "sourceAlt": "Image 61"
+    },
+    {
+      "id": 61,
+      "category": "products",
+      "title": "ご契約日より約90日〜120日で納品です",
+      "text": "ご契約日より約90日〜120日で納品です。基本、作業内容確認→鍵引渡し→保証書お渡し→納品は同日です。",
+      "image": "assets/images/062_transf_1760943679.jpg",
+      "imageAlt": "沖縄トレーラーハウス 製品情報 事例 61",
+      "sourceAlt": "Image 62"
+    },
+    {
+      "id": 62,
+      "category": "company",
+      "title": "パークホームズオリジナルトレーラーヘッド 車名＝インターナショナル（USA） 現在までに最大級のトレーラーハウスを全国に",
+      "text": "パークホームズオリジナルトレーラーヘッド 車名＝インターナショナル（USA） 現在までに最大級のトレーラーハウスを全国に輸送してきました。 フルサイズトレーラーハウス を県内（離島含む）どこでも輸送致します。 ※ 離島行きフェリーは全高4、2Mです。",
+      "image": "assets/images/063_transf_1618032728.jpg",
+      "imageAlt": "沖縄トレーラーハウス 会社概要・理念 事例 62",
+      "sourceAlt": "Image 63"
+    },
+    {
+      "id": 63,
+      "category": "products",
+      "title": "米トヨタが誇るフルサイズピックアップ【タンドラ】 大きめのタイニーハウスやエアストリームはタンドラで輸送します",
+      "text": "米トヨタが誇るフルサイズピックアップ【タンドラ】 大きめのタイニーハウスやエアストリームはタンドラで輸送します。",
+      "image": null,
+      "imageAlt": null,
+      "sourceAlt": null
+    }
+  ],
+  "keywordHighlight": [
+    "トレーラーハウス",
+    "沖縄",
+    "オフグリッド",
+    "助成金",
+    "ランドリー",
+    "BCP",
+    "Solar Haven",
+    "Park Round",
+    "Park Moving"
+  ],
+  "categoryLabels": {
+    "company": "会社概要・理念",
+    "products": "製品情報",
+    "services": "サービス内容",
+    "cases": "実績・施工事例",
+    "faq": "FAQ/法令",
+    "contact": "お問い合わせ"
+  }
+}
